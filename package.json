@@ -12,7 +12,8 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
     "firebase": "^6.2.4",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.12.0",
+    "moment": "^2.24.0"
   },
   "scripts": {
     "start": "react-scripts start",
